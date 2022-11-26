@@ -14,10 +14,6 @@ fun main(){
             println("Result is $result")
         }
     }
-
-
-
-
 }
 
 fun calculator(fir: Double, sec: Double, op: String): Double {
